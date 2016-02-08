@@ -6,7 +6,7 @@ week1-asmt-flicks
 
 **Flicks** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: 5 hours spent in total
+Time spent: 7 hours spent in total
 
 ## User Stories
 
@@ -45,10 +45,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-- I couldn't get UISearchBar to work, I will keep working on it. And another challenge was the loading indicator not show up even with Network Link Conditioner.
+- I couldn't get UISearchBar to work. And another challenge was the loading indicator not show up even with Network Link Conditioner.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Bao Ha]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
